@@ -1,13 +1,13 @@
 # Projektstruktur
 
-### scrum
+### Scrum
 
-- 1 vecka långa sprints
-- Veckoplanering måndag
+- 2 veckor långa sprints
+- Sprintplannering första måndagen
   - 11:00 - 12:00
 - Standup tisdag - torsdag
   - 8:45 - 9:00
-- Retro fredagar
+- Retro sista fredagen
   - 13:00 - 14:00
 
 ### Förhållningssätt

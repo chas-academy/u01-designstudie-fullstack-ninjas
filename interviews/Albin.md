@@ -2,69 +2,69 @@
 
 ## Bakgrundsinformation
 ### Demografi:
-- 1. Vad heter du?
-        Svar: Albin
+- Vad heter du?
+  - Albin
         
-- 2. Hur gammal är du?
-        Svar: 21
+- Hur gammal är du?
+  - 21
 
-- 3. Vilken yrkesbakgrund har du?
-        Svar: Butiksbiträde
+- Vilken yrkesbakgrund har du?
+  - Butiksbiträde
 
 ### Livsstil:
-- 4. Hur ser en typisk vecka ut för dig?
-        Svar: går i skola måndag till fredag och tar det lugnt på helgen
+- Hur ser en typisk vecka ut för dig?
+  - Går i skola måndag till fredag och tar det lugnt på helgen
         
-- 5. Vilka intressen och hobbies har du?
-        Svar: fotboll och historia
+- Vilka intressen och hobbies har du?
+  - Fotboll och historia
 
 ## Eventrelaterade frågor
 ### Tidigare erfarenheter:
-- 6. Har du tidigare anlitat en eventbyrå? I så fall, hur var           upplevelsen?
-        Svar: Nej
+- Har du tidigare anlitat en eventbyrå? I så fall, hur var upplevelsen?
+  -  Nej
 
-- 7. Kan du beskriva ett minnesvärt event du har planerat eller deltagit i?
-        Svar: min fars 50 årsfest
+- Kan du beskriva ett minnesvärt event du har planerat eller deltagit i?
+  - Min fars 50 årsfest
 
 ### Behov och motivation:
-- 8. Vad motiverar dig att anlita en eventbyrå?
-        Svar: eftersom det är smidigt och eventet blir proffsigt
+- Vad motiverar dig att anlita en eventbyrå?
+  - Eftersom det är smidigt och eventet blir proffsigt
 
-- 9. Vilka är de viktigaste faktorerna för dig när du väljer en eventbyrå? (ex. pris, kreativitet, service)
-        Svar: service och proffesionalism
+- Vilka är de viktigaste faktorerna för dig när du väljer en eventbyrå? (ex. pris, kreativitet, service)
+  - Service och proffesionalism
 
 ## Förväntningar och önskemål
 ### Vision och mål:
-- 10. Vilket typ av event planerar du?
-        Svar: födelsedagsfest
+- Vilket typ av event planerar du?
+  - Födelsedagsfest
 
-- 11. Finns det några trender eller teman som intresserar dig just nu?
-        Svar: nej
+- Finns det några trender eller teman som intresserar dig just nu?
+  - Nej
 
-- 12. Vad är ditt största mål med detta event?
-        Svar: att det blir minnesvärt och att deltagarna har en trevlig kväll
+- Vad är ditt största mål med detta event?
+  - Att det blir minnesvärt och att deltagarna har en trevlig kväll
 
 ### Budget:
-- 13. Hur mycket är du beredd att spendera på ett event?
-        Svar: 20 000:-
+- Hur mycket är du beredd att spendera på ett event?
+  - 20 000:-
 
-- 14. Hur ser du på värdet av att anlita professionella för eventplanering?
-        Svar: om det är en proffesionell byrå som gör ett bra jobb så är det värt pengarna
+- Hur ser du på värdet av att anlita professionella för eventplanering?
+  - Om det är en proffesionell byrå som gör ett bra jobb så är det värt pengarna
 
 ## Upplevelse och feedback
 ### Beslutsprocess:
-- 15. Hur går du tillväga för att välja en eventbyrå?
-        Svar: Har de en smidig hemsida, bra service så är det ett plus. Kollar recensioner online också.
+- Hur går du tillväga för att välja en eventbyrå?
+  - Har de en smidig hemsida, bra service så är det ett plus. Kollar recensioner online också.
 
-- 16. Vilka källor litar du på för att få rekommendationer?
-        Svar: Pratar med folk jag känner och hör om de har några rekomendationer
+- Vilka källor litar du på för att få rekommendationer?
+  - Pratar med folk jag känner och hör om de har några rekomendationer
 
 ### Förbättringsområden:
-- 17. Finns det något du tycker saknas hos nuvarande eventbyråer?
-        Svar: Nej
+- Finns det något du tycker saknas hos nuvarande eventbyråer?
+  - Nej
 
-- 18. Vilka aspekter av eventplaneringen upplever du som mest stressiga?
-        Svar: Det är stressigt att se till att eventet aldrig blir tråkigt för deltagarna
+- Vilka aspekter av eventplaneringen upplever du som mest stressiga?
+  - Det är stressigt att se till att eventet aldrig blir tråkigt för deltagarna
 
 # Kategorier att använda för personas
 - **Demografi:** Ålder, yrke, intressen.

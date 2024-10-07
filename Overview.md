@@ -5,10 +5,13 @@
 - 2 veckor långa sprints
 - Sprintplannering första måndagen
   - 11:00 - 12:00
-- Standup tisdag - torsdag
-  - 8:45 - 9:00
+- Standup tisdag, onsdag, fredag
+  - 11:00 - 11:15
+  - Är scrum master inte närvarande hålls mötet av någon annan i gruppen
 - Retro sista fredagen
   - 13:00 - 14:00
+- Design review torsdagar
+  - efter föreläsning
 
 ### Förhållningssätt
 

@@ -1,86 +1,85 @@
-# Tjänster och priser
+# Price list
 
-## Event-paket
+## Event Packages
 
-### 1. Basic Event-paket - från 15,000 kr
-- Planering och konsultation (cirka 4 timmar)
-- Val av tema och grundläggande dekorationsidéer
-- Rekommendation av lokal
-- Koordinering gällande catering och teknik (med leverantör)
-- Regelbunden support via telefon och e-post
+### 1. Basic Event Package - from 15.000 SEK
+- Planning and consultation (about 4 hours)
+- Selection of theme and basic decoration ideas
+- Venue recommendation
+- Coordination regarding catering and technical services (with supplier)
+- Ongoing support via phone and e-mail
 
+### 2. Standard Event Package - from 30.000 SEK
+- **Basic Event Package** plus:
+    - Complete project management and planning
+    - Booking and coordination with involved suppliers (technical, catering, entertainment)
+    - Budget management
+    - Event design
+    - On-site presence on the event day
 
-### 2. Standard Event-paket - från 30,000 kr
-- **Basic Event-paket** plus:
-    - Fullständig projektledning och planering
-    - Bokning och koordinering med samtliga leverantörer (teknik, catering, underhåll)
-    - Budgethantering
-    - Eventdesign
-    - Närvaro på eventetdagen
+### 3. Premium Event Package - from 60.000 SEK
+- **Standard Event Package** plus:
+    - Standard Event Package plus:
+    - Complete design and custom decorations
+    - Coordination of entertainment (DJ, band, performances)
+    - Photography and/or videography during the event
+    - Guest list management (including VIP)
+    - Invitations and RSVP management
+    - Follow-up and evaluation after the event
 
-### 3. Premium Event-paket - från 60,000 kr
-- Allt i **Standard Event-paket** plus:
-    - Fullständig design och skräddarsydda dekorationer
-    - Koordination av underhållning (DJ, band, artister)
-    - Fotografering och/eller videoinspelning under eventet
-    - Hantering av gästlista (inklusive VIP)
-    - Hantering av inbjudningskort och RSVP
-    -  Uppföljning och utvärdering efter eventet
-    
-    _*RSVP = Vi ser till att gästerna svarar på inbjudan för att undvika extra kostnader för leverantörer_
+*RSVP = We ensure that guests respond to the invitation to avoid extra costs from suppliers
 
-## Tjänster á la carte
+## Á la Carte Servies
 
-### Event konsultation
-- Pris: 1,200 kr per timme
-- Rådgivning om allt från tema, budget, catering och gästhantering
-- Vid bokning av eventpaket dras denna summan av från priset.
+### Event consultation
+- Price: 1.200 SEK per hour
+- Advice on everything from theme, budget, catering, and guest management
+- When booking an event package, this fee is deducted from the total price
 
-### Lokal och platsbokning
-- Pris: Från 5,000 kr
-- Sökning, rekommendation och bokning av lämplig lokal
+### Venue and location booking
+- Price: From 5.000 SEK
+- Search, recommendation, and booking of a suitable venue
 
-### Tema och dekoration
-- Pris: Från 4,500 kr (beroende på storlek och tema)
-- Design och utförande av dekor och tema
+### Theme and decoration
+- From 4.500 SEK (the price depends on size and theme)
+- Design and execution of decor and theme
 
-### Gästhantering och RSVP
-- Pris: Från 2,000 kr
-- Inbjudningskort, hantering av gästlistor och RSVP
+### Guest management and RSVP
+- Price: From 2.000 SEK
+- Invitations, guest list management and RSVP
 
-### Catering koordination
-- Pris: Från 3,500 kr
-- Koordinering av catering, menyval (inklusive provsmakning)
+### Catering coordination
+- Price: From 3.500 SEK
+- Coordination of catering, menu selection (including tasting)
 
-### Teknik och ljud/ljus
-- Pris: Från 5,500 kr
-- Ljud- och ljussättning, inklusive koordination av leverantörer och tekniker
+### Technical services and sound/spotlight
+- Price: From 5.500 SEK
+- Sound and spotlight setup, including coordination with suppliers and technicians
 
-### Underhållning
-- Pris: Från 6,000 kr
-- Boka DJ, liveband, eller andra typer av artister och underhållare
+### Entertainment
+- Price: From 6.000 SEK
+- Booking of DJ, live bands or other types of entertainers and performers
 
-### Fotografering och/eller videoinspelning
-- Pris: Från 2,500 kr
-- Professionell fotografering och videoinspelning under eventet, inklusive redigering
+### Photography and/or videography
+- Price: From 2.500 SEK
+- Professional photography and videography during the event, including editing
 
-### Projektledning på plats (dag av eventet)
-- Pris: Från 8,000 kr
-- Närvaro och koordinering under hela eventdagen för att säkerställa att allt går smidigt
+### On-site project management (day of the event)
+- Price: From 8.000 SEK
+- Presence and coordination throughout the event day to ensure everything runs smoothly
 
-### Uppföljning och utvärdering
-- Pris: 2,200 kr
-- Feedback från gäster och en analys av eventets framgång och förbättringsmöjligheter
+### Follow-up and evaluation
+- Price: From 2.200 SEK
+- Guest feedback and analysis of the event's success and areas for improvement
 
-## Tillval
-- Transport och logistik (för gäster eller leveranser) – 4,000 kr
-- Extra dekor & blommor – Från 2,000 kr
-- Hållbarhets Fokuserade event – extra kostnad på 10% för att inkludera hållbara och miljövänliga lösningar i planeringen
-- VIP-hantering (specifika krav eller unika behov) – 5,000 kr
+## Add-ons
+- Transport and logistics (for guests or deliveries) – 4.000 SEK
+- Extra decor and flowers – From 2.000 SEK
+- Sustainability-focused event to include sustainable and eco-friendly solutions in planning - Additional cost of 10% 
+- VIP management (specific requirements or unique needs) – 5.000 SEK
 
-## Avbetalning
-- Möjlighet att dela upp betalningen i flera delar över tid (beroende på total kostnad)
-
+## Payment Plan
+- Possibility to split the payment into several parts over time (depending on the total cost).
 
 ---
-Vänligen kontakta oss vid eventuella frågor gällande våra tjänster och priser!
+Please contact us with any questions regarding our services and prices!

@@ -2,7 +2,7 @@
 
 ## Sprint Planering - Sprint 3
 
-_21/9 - 3/11_
+_21/9 - 1/11_
 
 ### Ej närvarande
 
